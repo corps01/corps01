@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello, I'm Omar Corpus! 👋
 
-<!--
-**corps01/corps01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate front-end developer with a love for creating beautiful and intuitive user interfaces. I believe in the power of combining creativity and technology to deliver exceptional digital experiences.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Proficient in HTML, CSS, JavaScript, and React.
+- 🎨 I enjoy crafting pixel-perfect designs and translating them into responsive web applications.
+- 🚀 Constantly learning and keeping up with the latest web technologies and trends.
+- ✨ A believer in clean code, modular architecture, and best coding practices.
+- 👥 Excellent team player with bilingual communication skills.
+
+
+## Let's Connect
+
+I'm always open to new opportunities and collaborations. If you'd like to get in touch, discuss a project, or just say hi, feel free to reach out to me:
+
+- 📧 Email: [ocorpus1@outlook.com](mailto:ocorpus1@outlook.com)
+- 💼 LinkedIn: [Omar Corpus](https://www.linkedin.com/in/omar-corpus-2890b821b/)
+- 🌐 Portfolio: [https://corps01.github.io/](https://corps01.github.io/)
+
+Let's create something amazing together! ✨
