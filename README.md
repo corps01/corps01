@@ -1,6 +1,6 @@
 # Hello, I'm Omar Corpus! 👋
 
-Welcome to my GitHub profile! I'm a passionate front-end developer with a love for creating beautiful and intuitive user interfaces. I believe in the power of combining creativity and technology to deliver exceptional digital experiences.
+Welcome to my GitHub profile! I'm a passionate web developer with a love for creating beautiful and intuitive user interfaces. I believe in the power of combining creativity and technology to deliver exceptional digital experiences.
 
 ## About Me
 
